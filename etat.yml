@@ -1,16 +1,15 @@
-lieu: pont-épée
+lieu: pont-levis
 inventaire:
   - cheval
   - grimoire
-  - lion
 personnages:
   - moi:
-    - santé: 7
+    - santé: 10
   - chevalier_noir:
-    - santé: 0
+    - santé: 15
   - lion:
-    - santé: 11
+    - santé: 20
   - serpent:
-    - santé: 0
+    - santé: 20
   - géant:
-    - santé: 0
+    - santé: 25
